@@ -1,6 +1,5 @@
 body{
-    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-    font-family: 'Roboto', sans-serif;
+    font-family: 'open sans';
     font-size: 16px;
     color: aliceblue;
     background-color: black;
@@ -52,10 +51,6 @@ a{
     color: aliceblue;
     margin: 8px;
     font-weight:600;
-}
-
-.gold{
-    color: #F69708;
 }
 
 .myBusiness{
@@ -113,20 +108,10 @@ img{
     width: 40px;
 }
 
-.myDetailsInfo{
-    margin-bottom: 36px;
-}
-
-.myDetailsInfo .myname{
-    font-size: 110px;
+.myname{
+    font-size: 60px;
     font-weight: 600;
-    line-height: 90%;
-    letter-spacing: 0%;
-}
-
-.myDetailsInfo p{
-    font-size: 36px;
-    margin: 10px;
+    
 }
 
 button{
@@ -263,6 +248,5 @@ hr{
 }
 
 footer{
-    padding: 20px 0;
     text-align: center;
 }
